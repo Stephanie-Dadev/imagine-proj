@@ -1,0 +1,15 @@
+@media only screen and(max-width: 1024px) {
+    #section .wrapper {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* @media only screen and(max-width: 480px) {
+    #section .wrapper .img_wrapper {
+        display: none;
+    }
+
+    #section2 .flex_items {
+        grid-template-columns: 1fr;
+    }
+} */
